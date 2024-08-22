@@ -1,0 +1,23 @@
+{
+    "name": "IoT LOTODA",
+    "keywords": "mqtt, cloud, alerts, rest, chart",
+    "description": "Real time charts, device management, data store, activities and offline alert rules, MQTT broker, HTTP REST support, Android and iOS, Application.",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/lotoda/LOTODA_Lib.git"
+    },
+    "authors": 
+    [
+      {
+        "name": "LOTODA",
+        "email": "support@lotoda.vn",
+        "maintainer": true
+      }
+    ],
+    "version": "1.0.0",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "platforms": "esp8266,esp32"
+  }
+  
